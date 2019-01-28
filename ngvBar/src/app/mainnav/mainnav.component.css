@@ -1,0 +1,19 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+
+}
+.hidenav {
+  display: none;
+}
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+}
+
+.menubt button {
+  margin-left: 1%;
+}
